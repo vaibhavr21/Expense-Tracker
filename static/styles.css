@@ -83,3 +83,8 @@ th, td {
     background-color: #337ab7;
     color: #fff;
 }
+
+.btn-success {
+    background-color: #5cb85c;
+    color: #fff;
+}
