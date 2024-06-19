@@ -56,6 +56,7 @@ th {
 }
 
 th, td {
+    border: 1px solid #ddd;
     padding: 10px;
     text-align: left;
 }
@@ -69,4 +70,11 @@ th, td {
 }
 .delete-button:hover{
     background-color: #ff0000;
+}
+
+.btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
 }
