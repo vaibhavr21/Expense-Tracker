@@ -78,3 +78,8 @@ th, td {
     border-radius: 5px;
     cursor: pointer;
 }
+
+.btn-primary {
+    background-color: #337ab7;
+    color: #fff;
+}
