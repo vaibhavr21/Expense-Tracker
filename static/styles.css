@@ -51,6 +51,10 @@ table, th, td {
     border: 1px solid black;
 }
 
+th {
+    background-color: #f0f0f0;
+}
+
 th, td {
     padding: 10px;
     text-align: left;
@@ -59,7 +63,8 @@ th, td {
     background-color: #ff4d4d;
     color: white;
     border: none;
-    padding: 5px 10px;
+    padding: 10px 20px;
+    font-size: 16px;
     cursor: pointer;
 }
 .delete-button:hover{
